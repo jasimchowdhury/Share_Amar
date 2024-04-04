@@ -20,3 +20,10 @@ export default function RootLayout({
     </html>
   );
 }
+
+// import React from "react";
+// import ReactDOM from "react-dom";
+
+// import App from "./page";
+
+// ReactDOM.render(<App />, document.getElementById("root"));
