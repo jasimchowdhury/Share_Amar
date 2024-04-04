@@ -119,7 +119,7 @@
 import React from "react";
 
 const App = () => {
-  return <h1 className="text-red-400 font-bold underline">Hello Again</h1>;
+  return <h1 className="text-red-400">Hello kAgain</h1>;
 };
 
 export default App;
