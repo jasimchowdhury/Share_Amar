@@ -1,4 +1,4 @@
-xxx--------------------------------------------------------------------DISCONTINUED---------------------------------------------------------------xxx
+xxx--------------------------------DISCONTINUED-------------------------------xxx
 # Full-Stack Application with Sanity Backend and Next.js Frontend
 
 This repository contains a full-stack application leveraging Sanity for backend operations and Next.js for the frontend. The project is designed to optimize data management, dynamic content rendering, and user interface interactivity.
